@@ -12,11 +12,11 @@ For more details on hosting the app, read [here](DEPLOY.md).
 
 Docker container running in AWS EC2 instance:
 
-![image-20200413092518550](./screenshots/image-20200413092518550.png)
+![image-20200413092518550](./image-20200413092518550.png)
 
 ## Email alert example
 
-![image-20200412122335908](./screenshots/image-20200412122335908.png)
+![image-20200412122335908](./image-20200412122335908.png)
 
 ## Building image
 
